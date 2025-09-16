@@ -1,0 +1,31 @@
+### L F U Cache
+
+#### Definition & core idea
+Concise definition and the intuition behind the structure.
+
+#### Time–space complexity
+| Operation | Average | Worst | Space |
+|---|---|---|---|
+| Insert | TBD | TBD | TBD |
+| Delete | TBD | TBD | TBD |
+| Search/Access | TBD | TBD | TBD |
+
+#### Real-world use-cases
+- Add concrete scenarios where this excels (systems, apps, infra).
+
+#### When to choose over alternatives
+- Guidance on trade-offs vs. neighboring structures.
+
+#### Implementations
+- Native: [Python](../python/native/l_f_u_cache.py), [Java](../java/native/LFUCache.java)
+- Std-lib–based: [Python](../python/stdlib/l_f_u_cache_std.py), [Java](../java/stdlib/LFUCacheStd.java)
+
+#### Practice scenarios & interview-style questions
+- Design LRU/LFU cache for key-value store.
+- Page replacement simulation.
+- API rate limiters with TTL-like eviction.
+- Database buffer pool policy comparison.
+- Image thumbnail cache.
+
+#### Further reading
+- See curated notes in `../docs/`.

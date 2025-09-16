@@ -1,0 +1,34 @@
+### Multimap
+
+#### Definition & core idea
+Concise definition and the intuition behind the structure.
+
+#### Time–space complexity
+| Operation | Average | Worst | Space |
+|---|---|---|---|
+| Insert | TBD | TBD | TBD |
+| Delete | TBD | TBD | TBD |
+| Search/Access | TBD | TBD | TBD |
+
+#### Real-world use-cases
+- Add concrete scenarios where this excels (systems, apps, infra).
+
+#### When to choose over alternatives
+- Guidance on trade-offs vs. neighboring structures.
+
+#### Implementations
+- Native: [Python](../python/native/multimap.py), [Java](../java/native/Multimap.java)
+- Std-lib–based: [Python](../python/stdlib/multimap_std.py), [Java](../java/stdlib/MultimapStd.java)
+
+#### Practice scenarios & interview-style questions
+- Group anagrams with signature hashing.
+- Two-sum using hash set/map.
+- First unique character index.
+- Frequency counting and bucket grouping.
+- LRU index map for O(1) updates.
+- Design multimap for one-to-many relationships.
+- Implement symbol table for interpreter.
+- Deduplicate stream items.
+
+#### Further reading
+- See curated notes in `../docs/`.
