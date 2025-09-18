@@ -1,4 +1,4 @@
-package javacode.sample;
+package LLD.javacode.sample;
 
 public class Car {
     private String color;

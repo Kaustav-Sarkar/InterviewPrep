@@ -1,4 +1,4 @@
-package javacode.inventory;
+package LLD.javacode.inventory;
 
 abstract class DigitalProduct implements Purchasable {
     private String name;

@@ -1,4 +1,4 @@
-package javacode.inventory;
+package LLD.javacode.inventory;
 
 public interface Purchasable {
 

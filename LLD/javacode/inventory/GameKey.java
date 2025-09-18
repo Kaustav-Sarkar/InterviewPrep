@@ -1,4 +1,4 @@
-package javacode.inventory;
+package LLD.javacode.inventory;
 
 public class GameKey extends DigitalProduct {
     private String platform;

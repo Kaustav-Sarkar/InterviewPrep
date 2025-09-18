@@ -1,4 +1,4 @@
-package javacode.inventory;
+package LLD.javacode.inventory;
 
 import java.util.List;
 import java.util.ArrayList;

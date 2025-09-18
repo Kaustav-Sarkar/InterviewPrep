@@ -1,4 +1,4 @@
-package javacode.inventory;
+package LLD.javacode.inventory;
 
 public class Ebook extends DigitalProduct {
     private String author;
