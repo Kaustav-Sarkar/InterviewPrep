@@ -1,0 +1,2068 @@
+name: strivers-sde-sheet
+source: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems
+items:
+- slug: set-matrix-zeros
+  title: Set Matrix Zeros
+  topic: Arrays
+  difficulty: medium
+  type: Matrix Manipulation
+  tags:
+  - array
+  - matrix
+  link: null
+  python_path: null
+  java_path: null
+- slug: pascal-s-triangle
+  title: Pascal's Triangle
+  topic: Arrays
+  difficulty: medium
+  type: Mathematical/Pattern
+  tags:
+  - array
+  - math
+  link: null
+  python_path: null
+  java_path: null
+- slug: next-permutation
+  title: Next Permutation
+  topic: Arrays
+  difficulty: medium
+  type: Algorithm Implementation
+  tags:
+  - array
+  link: null
+  python_path: null
+  java_path: null
+- slug: kadane-s-algorithm
+  title: Kadane's Algorithm
+  topic: Arrays
+  difficulty: easy
+  type: Dynamic Programming
+  tags:
+  - array
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: sort-an-array-of-0-s-1-s-and-2-s
+  title: Sort an array of 0's, 1's and 2's
+  topic: Arrays
+  difficulty: medium
+  type: Sorting/Two Pointer
+  tags:
+  - array
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: stock-buy-and-sell
+  title: Stock Buy and Sell
+  topic: Arrays
+  difficulty: easy
+  type: Greedy/DP
+  tags:
+  - array
+  - dynamic-programming
+  - greedy
+  link: null
+  python_path: null
+  java_path: null
+- slug: rotate-matrix
+  title: Rotate Matrix
+  topic: Arrays
+  difficulty: medium
+  type: Matrix Manipulation
+  tags:
+  - array
+  - matrix
+  link: null
+  python_path: null
+  java_path: null
+- slug: merge-overlapping-subintervals
+  title: Merge Overlapping Subintervals
+  topic: Arrays
+  difficulty: medium
+  type: Intervals
+  tags:
+  - array
+  - interval
+  link: null
+  python_path: null
+  java_path: null
+- slug: merge-two-sorted-arrays-without-extra-space
+  title: Merge two sorted arrays without extra space
+  topic: Arrays
+  difficulty: medium
+  type: Two Pointer/Sorting
+  tags:
+  - array
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-the-duplicate-in-an-array-of-n-1-integers
+  title: Find the duplicate in an array of N+1 integers
+  topic: Arrays
+  difficulty: medium
+  type: Cycle Detection
+  tags:
+  - array
+  - cycle-detection
+  link: null
+  python_path: null
+  java_path: null
+- slug: repeat-and-missing-number
+  title: Repeat and Missing Number
+  topic: Arrays
+  difficulty: hard
+  type: Mathematical
+  tags:
+  - array
+  - math
+  link: null
+  python_path: null
+  java_path: null
+- slug: inversion-of-array-pre-req-merge-sort
+  title: 'Inversion of Array (Pre-req: Merge Sort)'
+  topic: Arrays
+  difficulty: hard
+  type: Merge Sort Application
+  tags:
+  - array
+  link: null
+  python_path: null
+  java_path: null
+- slug: search-in-a-2d-matrix
+  title: Search in a 2D matrix
+  topic: Arrays
+  difficulty: medium
+  type: Binary Search
+  tags:
+  - array
+  - binary-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: pow-x-n
+  title: Pow(x, n)
+  topic: Arrays
+  difficulty: medium
+  type: Mathematical/Recursion
+  tags:
+  - array
+  - math
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: majority-element-n-2-times
+  title: Majority Element (>n/2 times)
+  topic: Arrays
+  difficulty: easy
+  type: Hash Map/Voting
+  tags:
+  - array
+  - hash-map
+  link: null
+  python_path: null
+  java_path: null
+- slug: majority-element-n-3-times
+  title: Majority Element (n/3 times)
+  topic: Arrays
+  difficulty: medium
+  type: Hash Map/Voting
+  tags:
+  - array
+  - hash-map
+  link: null
+  python_path: null
+  java_path: null
+- slug: grid-unique-paths
+  title: Grid Unique Paths
+  topic: Arrays
+  difficulty: medium
+  type: Dynamic Programming
+  tags:
+  - array
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: reverse-pairs-leetcode
+  title: Reverse Pairs (Leetcode)
+  topic: Arrays
+  difficulty: hard
+  type: Merge Sort Application
+  tags:
+  - array
+  link: null
+  python_path: null
+  java_path: null
+- slug: 2sum-problem
+  title: 2Sum Problem
+  topic: Hashing
+  difficulty: medium
+  type: Hash Map/Two Pointer
+  tags:
+  - hash-map
+  - hashing
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: 4-sum-problem
+  title: 4-Sum Problem
+  topic: Hashing
+  difficulty: hard
+  type: Hash Map/Multiple Pointers
+  tags:
+  - hash-map
+  - hashing
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: longest-consecutive-sequence
+  title: Longest Consecutive Sequence
+  topic: Hashing
+  difficulty: medium
+  type: Hash Set
+  tags:
+  - hash-set
+  - hashing
+  link: null
+  python_path: null
+  java_path: null
+- slug: largest-subarray-with-k-sum
+  title: Largest Subarray with K sum
+  topic: Hashing
+  difficulty: medium
+  type: Prefix Sum/Hash Map
+  tags:
+  - hash-map
+  - hashing
+  - prefix-sum
+  link: null
+  python_path: null
+  java_path: null
+- slug: count-number-of-subarrays-with-given-xor-k
+  title: Count number of subarrays with given xor K
+  topic: Hashing
+  difficulty: hard
+  type: Prefix XOR/Hash Map
+  tags:
+  - hash-map
+  - hashing
+  - prefix-xor
+  link: null
+  python_path: null
+  java_path: null
+- slug: longest-substring-without-repeat
+  title: Longest Substring without repeat
+  topic: Hashing
+  difficulty: medium
+  type: Sliding Window/Hash Set
+  tags:
+  - hash-set
+  - hashing
+  - sliding-window
+  link: null
+  python_path: null
+  java_path: null
+- slug: reverse-a-linkedlist
+  title: Reverse a LinkedList
+  topic: Linked List
+  difficulty: easy
+  type: Pointer Manipulation
+  tags:
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-the-middle-of-linkedlist
+  title: Find the middle of LinkedList
+  topic: Linked List
+  difficulty: easy
+  type: Two Pointer (Tortoise-Hare)
+  tags:
+  - linked-list
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: merge-two-sorted-linked-list
+  title: Merge two sorted Linked List
+  topic: Linked List
+  difficulty: easy
+  type: Merge Technique
+  tags:
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: remove-n-th-node-from-back-of-linkedlist
+  title: Remove N-th node from back of LinkedList
+  topic: Linked List
+  difficulty: medium
+  type: Two Pointer
+  tags:
+  - linked-list
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: add-two-numbers-as-linkedlist
+  title: Add two numbers as LinkedList
+  topic: Linked List
+  difficulty: medium
+  type: Mathematical/Carry Forward
+  tags:
+  - linked-list
+  - math
+  link: null
+  python_path: null
+  java_path: null
+- slug: delete-a-given-node-when-a-node-is-given-o-1-solution
+  title: Delete a given Node when a node is given (O(1) solution)
+  topic: Linked List
+  difficulty: medium
+  type: Node Manipulation
+  tags:
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-intersection-point-of-y-linkedlist
+  title: Find intersection point of Y LinkedList
+  topic: Linked List
+  difficulty: medium
+  type: Two Pointer/Cycle
+  tags:
+  - linked-list
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: detect-a-cycle-in-linked-list
+  title: Detect a cycle in Linked List
+  topic: Linked List
+  difficulty: medium
+  type: Floyd's Cycle Detection
+  tags:
+  - cycle-detection
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: reverse-a-linkedlist-in-groups-of-size-k
+  title: Reverse a LinkedList in groups of size k
+  topic: Linked List
+  difficulty: hard
+  type: Recursion/Iteration
+  tags:
+  - linked-list
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: check-if-a-linkedlist-is-palindrome-or-not
+  title: Check if a LinkedList is palindrome or not
+  topic: Linked List
+  difficulty: medium
+  type: Two Pointer/Stack
+  tags:
+  - linked-list
+  - stack
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-the-starting-point-of-the-loop-of-linkedlist
+  title: Find the starting point of the Loop of LinkedList
+  topic: Linked List
+  difficulty: medium
+  type: Floyd's Algorithm
+  tags:
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: flattening-of-a-linkedlist
+  title: Flattening of a LinkedList
+  topic: Linked List
+  difficulty: hard
+  type: Merge Technique
+  tags:
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: rotate-a-linkedlist
+  title: Rotate a LinkedList
+  topic: Linked List
+  difficulty: medium
+  type: Pointer Manipulation
+  tags:
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: clone-a-linked-list-with-random-and-next-pointer
+  title: Clone a Linked List with random and next pointer
+  topic: Linked List
+  difficulty: hard
+  type: Hash Map/Node Creation
+  tags:
+  - hash-map
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: 3-sum
+  title: 3 sum
+  topic: Linked List
+  difficulty: medium
+  type: Three Pointer/Hash Map
+  tags:
+  - hash-map
+  - linked-list
+  link: null
+  python_path: null
+  java_path: null
+- slug: trapping-rainwater
+  title: Trapping Rainwater
+  topic: Linked List
+  difficulty: hard
+  type: Two Pointer/Stack
+  tags:
+  - linked-list
+  - stack
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: remove-duplicate-from-sorted-array
+  title: Remove Duplicate from Sorted array
+  topic: Linked List
+  difficulty: easy
+  type: Two Pointer
+  tags:
+  - linked-list
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: max-consecutive-ones
+  title: Max consecutive ones
+  topic: Linked List
+  difficulty: easy
+  type: Sliding Window
+  tags:
+  - linked-list
+  - sliding-window
+  link: null
+  python_path: null
+  java_path: null
+- slug: n-meetings-in-one-room
+  title: N meetings in one room
+  topic: Greedy
+  difficulty: medium
+  type: Activity Selection
+  tags:
+  - greedy
+  link: null
+  python_path: null
+  java_path: null
+- slug: minimum-number-of-platforms-required-for-railway
+  title: Minimum number of platforms required for railway
+  topic: Greedy
+  difficulty: medium
+  type: Interval Scheduling
+  tags:
+  - greedy
+  - interval
+  link: null
+  python_path: null
+  java_path: null
+- slug: job-sequencing-problem
+  title: Job sequencing Problem
+  topic: Greedy
+  difficulty: medium
+  type: Greedy Choice
+  tags:
+  - greedy
+  link: null
+  python_path: null
+  java_path: null
+- slug: fractional-knapsack-problem
+  title: Fractional Knapsack Problem
+  topic: Greedy
+  difficulty: medium
+  type: Greedy Algorithm
+  tags:
+  - greedy
+  link: null
+  python_path: null
+  java_path: null
+- slug: greedy-algorithm-to-find-minimum-number-of-coins
+  title: Greedy algorithm to find minimum number of coins
+  topic: Greedy
+  difficulty: medium
+  type: Coin Change Greedy
+  tags:
+  - greedy
+  link: null
+  python_path: null
+  java_path: null
+- slug: assign-cookies
+  title: Assign Cookies
+  topic: Greedy
+  difficulty: medium
+  type: Greedy Matching
+  tags:
+  - greedy
+  link: null
+  python_path: null
+  java_path: null
+- slug: subset-sums
+  title: Subset Sums
+  topic: Recursion
+  difficulty: medium
+  type: Backtracking
+  tags:
+  - backtracking
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: subset-ii
+  title: Subset-II
+  topic: Recursion
+  difficulty: medium
+  type: Backtracking with Duplicates
+  tags:
+  - backtracking
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: combination-sum-1
+  title: Combination sum-1
+  topic: Recursion
+  difficulty: medium
+  type: Backtracking
+  tags:
+  - backtracking
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: combination-sum-2
+  title: Combination sum-2
+  topic: Recursion
+  difficulty: medium
+  type: Backtracking with Duplicates
+  tags:
+  - backtracking
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: palindrome-partitioning
+  title: Palindrome Partitioning
+  topic: Recursion
+  difficulty: medium
+  type: Backtracking/DP
+  tags:
+  - backtracking
+  - dynamic-programming
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: k-th-permutation-sequence
+  title: K-th permutation Sequence
+  topic: Recursion
+  difficulty: hard
+  type: Mathematical/Factorial
+  tags:
+  - math
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: print-all-permutations-of-a-string-array
+  title: Print all permutations of a string/array
+  topic: Recursion
+  difficulty: medium
+  type: Backtracking
+  tags:
+  - backtracking
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: n-queens-problem
+  title: N queens Problem
+  topic: Recursion
+  difficulty: hard
+  type: Backtracking/Constraint Satisfaction
+  tags:
+  - backtracking
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: sudoko-solver
+  title: Sudoko Solver
+  topic: Recursion
+  difficulty: hard
+  type: Backtracking
+  tags:
+  - backtracking
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: m-coloring-problem
+  title: M Coloring Problem
+  topic: Recursion
+  difficulty: hard
+  type: Graph Coloring/Backtracking
+  tags:
+  - backtracking
+  - graph
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: rat-in-a-maze
+  title: Rat in a Maze
+  topic: Recursion
+  difficulty: hard
+  type: Backtracking/Path Finding
+  tags:
+  - backtracking
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: word-break-print-all-ways
+  title: Word Break (print all ways)
+  topic: Recursion
+  difficulty: medium
+  type: Backtracking/DP
+  tags:
+  - backtracking
+  - dynamic-programming
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: the-n-th-root-of-an-integer
+  title: The N-th root of an integer
+  topic: Binary Search
+  difficulty: easy
+  type: Mathematical/Binary Search
+  tags:
+  - binary-search
+  - math
+  link: null
+  python_path: null
+  java_path: null
+- slug: matrix-median
+  title: Matrix Median
+  topic: Binary Search
+  difficulty: hard
+  type: Binary Search on Answer
+  tags:
+  - binary-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-element-that-appears-once-in-sorted-array
+  title: Find element that appears once in sorted array
+  topic: Binary Search
+  difficulty: medium
+  type: Binary Search/Bit Manipulation
+  tags:
+  - binary-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: search-element-in-rotated-sorted-array
+  title: Search element in rotated sorted array
+  topic: Binary Search
+  difficulty: medium
+  type: Modified Binary Search
+  tags:
+  - binary-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: median-of-2-sorted-arrays
+  title: Median of 2 sorted arrays
+  topic: Binary Search
+  difficulty: hard
+  type: Binary Search/Partitioning
+  tags:
+  - binary-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: k-th-element-of-two-sorted-arrays
+  title: K-th element of two sorted arrays
+  topic: Binary Search
+  difficulty: medium
+  type: Binary Search/Merge
+  tags:
+  - binary-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: allocate-minimum-number-of-pages
+  title: Allocate Minimum Number of Pages
+  topic: Binary Search
+  difficulty: hard
+  type: Binary Search on Answer
+  tags:
+  - binary-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: aggressive-cows
+  title: Aggressive Cows
+  topic: Binary Search
+  difficulty: hard
+  type: Binary Search on Answer
+  tags:
+  - binary-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: max-heap-min-heap-implementation
+  title: Max heap, Min Heap Implementation
+  topic: Heap
+  difficulty: medium
+  type: Data Structure Implementation
+  tags:
+  - heap
+  link: null
+  python_path: null
+  java_path: null
+- slug: kth-largest-element
+  title: Kth Largest Element
+  topic: Heap
+  difficulty: easy
+  type: Heap/Quick Select
+  tags:
+  - heap
+  link: null
+  python_path: null
+  java_path: null
+- slug: maximum-sum-combination
+  title: Maximum Sum Combination
+  topic: Heap
+  difficulty: medium
+  type: Priority Queue
+  tags:
+  - heap
+  - priority-queue
+  - queue
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-median-from-data-stream
+  title: Find Median from Data Stream
+  topic: Heap
+  difficulty: hard
+  type: Two Heaps
+  tags:
+  - heap
+  link: null
+  python_path: null
+  java_path: null
+- slug: merge-k-sorted-arrays
+  title: Merge K sorted arrays
+  topic: Heap
+  difficulty: medium
+  type: Min Heap/Divide & Conquer
+  tags:
+  - divide-and-conquer
+  - heap
+  link: null
+  python_path: null
+  java_path: null
+- slug: k-most-frequent-elements
+  title: K most frequent elements
+  topic: Heap
+  difficulty: medium
+  type: Hash Map + Heap
+  tags:
+  - hash-map
+  - heap
+  link: null
+  python_path: null
+  java_path: null
+- slug: implement-stack-using-arrays
+  title: Implement Stack using Arrays
+  topic: Stack and Queue
+  difficulty: easy
+  type: Array Implementation
+  tags:
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: implement-queue-using-arrays
+  title: Implement Queue using Arrays
+  topic: Stack and Queue
+  difficulty: easy
+  type: Array Implementation
+  tags:
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: implement-stack-using-queue
+  title: Implement Stack using Queue
+  topic: Stack and Queue
+  difficulty: medium
+  type: Queue to Stack Conversion
+  tags:
+  - queue
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: implement-queue-using-stack
+  title: Implement Queue using Stack
+  topic: Stack and Queue
+  difficulty: medium
+  type: Stack to Queue Conversion
+  tags:
+  - queue
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: check-for-balanced-parentheses
+  title: Check for balanced parentheses
+  topic: Stack and Queue
+  difficulty: medium
+  type: Stack Application
+  tags:
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: next-greater-element
+  title: Next Greater Element
+  topic: Stack and Queue
+  difficulty: easy
+  type: Monotonic Stack
+  tags:
+  - monotonic-stack
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: sort-a-stack
+  title: Sort a Stack
+  topic: Stack and Queue
+  difficulty: easy
+  type: Recursion/Additional Stack
+  tags:
+  - recursion
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: next-smaller-element
+  title: Next Smaller Element
+  topic: Stack and Queue
+  difficulty: easy
+  type: Monotonic Stack
+  tags:
+  - monotonic-stack
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: lru-cache
+  title: LRU cache
+  topic: Stack and Queue
+  difficulty: hard
+  type: Hash Map + Doubly Linked List
+  tags:
+  - hash-map
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: lfu-cache
+  title: LFU cache
+  topic: Stack and Queue
+  difficulty: hard
+  type: Hash Map + Data Structure Design
+  tags:
+  - hash-map
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: largest-rectangle-in-histogram
+  title: Largest rectangle in histogram
+  topic: Stack and Queue
+  difficulty: medium
+  type: Monotonic Stack
+  tags:
+  - monotonic-stack
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: sliding-window-maximum
+  title: Sliding Window maximum
+  topic: Stack and Queue
+  difficulty: hard
+  type: Deque/Monotonic Queue
+  tags:
+  - monotonic-queue
+  - queue
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: implement-min-stack
+  title: Implement Min Stack
+  topic: Stack and Queue
+  difficulty: medium
+  type: Stack Design
+  tags:
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: rotten-orange-using-bfs
+  title: Rotten Orange (Using BFS)
+  topic: Stack and Queue
+  difficulty: medium
+  type: BFS/Multi-source BFS
+  tags:
+  - breadth-first-search
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: stock-span-problem
+  title: Stock span problem
+  topic: Stack and Queue
+  difficulty: medium
+  type: Monotonic Stack
+  tags:
+  - monotonic-stack
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-max-of-minimums-of-every-window-size
+  title: Find max of minimums of every window size
+  topic: Stack and Queue
+  difficulty: medium
+  type: Monotonic Stack/Sliding Window
+  tags:
+  - monotonic-stack
+  - sliding-window
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: the-celebrity-problem
+  title: The Celebrity Problem
+  topic: Stack and Queue
+  difficulty: hard
+  type: Stack/Greedy
+  tags:
+  - greedy
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: reverse-words-in-a-string
+  title: Reverse Words in a String
+  topic: String
+  difficulty: easy
+  type: String Manipulation
+  tags:
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: longest-palindrome-in-a-string
+  title: Longest Palindrome in a string
+  topic: String
+  difficulty: medium
+  type: DP/Expand Around Centers
+  tags:
+  - dynamic-programming
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: roman-number-to-integer-and-vice-versa
+  title: Roman Number to Integer and vice versa
+  topic: String
+  difficulty: easy
+  type: String Processing
+  tags:
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: implement-atoi-strstr
+  title: Implement ATOI/STRSTR
+  topic: String
+  difficulty: medium
+  type: String Parsing
+  tags:
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: longest-common-prefix
+  title: Longest Common Prefix
+  topic: String
+  difficulty: easy
+  type: String Comparison
+  tags:
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: rabin-karp
+  title: Rabin Karp
+  topic: String
+  difficulty: hard
+  type: String Matching/Rolling Hash
+  tags:
+  - rolling-hash
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: z-function
+  title: Z-Function
+  topic: String
+  difficulty: easy
+  type: String Matching Algorithm
+  tags:
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: kmp-algo-lps-pi-array
+  title: KMP algo / LPS(pi) array
+  topic: String
+  difficulty: hard
+  type: String Matching/Pattern
+  tags:
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: min-chars-to-insert-at-beginning-for-palindrome
+  title: Min chars to insert at beginning for palindrome
+  topic: String
+  difficulty: hard
+  type: KMP/String Algorithm
+  tags:
+  - kmp
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: check-for-anagrams
+  title: Check for Anagrams
+  topic: String
+  difficulty: easy
+  type: Hash Map/Sorting
+  tags:
+  - hash-map
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: count-and-say
+  title: Count and say
+  topic: String
+  difficulty: medium
+  type: String Generation/Recursion
+  tags:
+  - recursion
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: compare-version-numbers
+  title: Compare version numbers
+  topic: String
+  difficulty: medium
+  type: String Processing
+  tags:
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: inorder-traversal
+  title: Inorder Traversal
+  topic: Binary Tree
+  difficulty: easy
+  type: Tree Traversal
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: preorder-traversal
+  title: Preorder Traversal
+  topic: Binary Tree
+  difficulty: easy
+  type: Tree Traversal
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: postorder-traversal
+  title: Postorder Traversal
+  topic: Binary Tree
+  difficulty: easy
+  type: Tree Traversal
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: morris-inorder-traversal
+  title: Morris Inorder Traversal
+  topic: Binary Tree
+  difficulty: medium
+  type: Space-optimized Traversal
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: morris-preorder-traversal
+  title: Morris Preorder Traversal
+  topic: Binary Tree
+  difficulty: medium
+  type: Space-optimized Traversal
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: leftview-of-binary-tree
+  title: LeftView Of Binary Tree
+  topic: Binary Tree
+  difficulty: easy
+  type: Level Order/DFS
+  tags:
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: bottom-view-of-binary-tree
+  title: Bottom View of Binary Tree
+  topic: Binary Tree
+  difficulty: medium
+  type: Level Order/Hashing
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: top-view-of-binary-tree
+  title: Top View of Binary Tree
+  topic: Binary Tree
+  difficulty: easy
+  type: Level Order/Hashing
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: preorder-inorder-postorder-in-single-traversal
+  title: Preorder inorder postorder in single traversal
+  topic: Binary Tree
+  difficulty: medium
+  type: Tree Traversal Optimization
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: vertical-order-traversal
+  title: Vertical order traversal
+  topic: Binary Tree
+  difficulty: easy
+  type: Level Order/Hashing
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: root-to-node-path-in-binary-tree
+  title: Root to Node Path in Binary Tree
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Backtracking
+  tags:
+  - backtracking
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: max-width-of-a-binary-tree
+  title: Max width of a Binary Tree
+  topic: Binary Tree
+  difficulty: medium
+  type: Level Order/Indexing
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: level-order-traversal-spiral-form
+  title: Level order Traversal / Spiral form
+  topic: Binary Tree
+  difficulty: easy
+  type: BFS/Queue
+  tags:
+  - breadth-first-search
+  - queue
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: height-of-a-binary-tree
+  title: Height of a Binary Tree
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Recursion
+  tags:
+  - depth-first-search
+  - recursion
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: diameter-of-binary-tree
+  title: Diameter of Binary Tree
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Tree DP
+  tags:
+  - depth-first-search
+  - dynamic-programming
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: check-if-binary-tree-is-height-balanced
+  title: Check if Binary tree is height-balanced
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Height Calculation
+  tags:
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: lca-in-binary-tree
+  title: LCA in Binary Tree
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Recursion
+  tags:
+  - depth-first-search
+  - recursion
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: check-if-two-trees-are-identical
+  title: Check if two trees are identical
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Comparison
+  tags:
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: zig-zag-traversal-of-binary-tree
+  title: Zig Zag Traversal of Binary Tree
+  topic: Binary Tree
+  difficulty: easy
+  type: Level Order/Direction Flag
+  tags:
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: boundary-traversal-of-binary-tree
+  title: Boundary Traversal of Binary Tree
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Multiple Traversals
+  tags:
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: maximum-path-sum
+  title: Maximum path sum
+  topic: Binary Tree
+  difficulty: hard
+  type: DFS/Tree DP
+  tags:
+  - depth-first-search
+  - dynamic-programming
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: construct-binary-tree-from-inorder-and-preorder
+  title: Construct Binary Tree from inorder and preorder
+  topic: Binary Tree
+  difficulty: hard
+  type: Tree Construction/Recursion
+  tags:
+  - recursion
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: construct-binary-tree-from-inorder-and-postorder
+  title: Construct Binary Tree from Inorder and Postorder
+  topic: Binary Tree
+  difficulty: hard
+  type: Tree Construction/Recursion
+  tags:
+  - recursion
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: symmetric-binary-tree
+  title: Symmetric Binary Tree
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Mirror Check
+  tags:
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: flatten-binary-tree-to-linkedlist
+  title: Flatten Binary Tree to LinkedList
+  topic: Binary Tree
+  difficulty: hard
+  type: DFS/Tree Modification
+  tags:
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: check-if-binary-tree-is-mirror-of-itself
+  title: Check if Binary Tree is mirror of itself
+  topic: Binary Tree
+  difficulty: medium
+  type: DFS/Symmetry Check
+  tags:
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: check-for-children-sum-property
+  title: Check for Children Sum Property
+  topic: Binary Tree
+  difficulty: hard
+  type: DFS/Tree Validation
+  tags:
+  - depth-first-search
+  - tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: populate-next-right-pointers-of-tree
+  title: Populate Next Right pointers of Tree
+  topic: Binary Search Tree
+  difficulty: medium
+  type: Level Order/Tree Modification
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: search-given-key-in-bst
+  title: Search given Key in BST
+  topic: Binary Search Tree
+  difficulty: easy
+  type: BST Search Property
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: construct-bst-from-given-keys
+  title: Construct BST from given keys
+  topic: Binary Search Tree
+  difficulty: hard
+  type: BST Construction
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: construct-bst-from-preorder-traversal
+  title: Construct BST from preorder traversal
+  topic: Binary Search Tree
+  difficulty: medium
+  type: BST Construction/Stack
+  tags:
+  - bst
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: check-if-bt-is-bst-or-not
+  title: Check if BT is BST or not
+  topic: Binary Search Tree
+  difficulty: medium
+  type: BST Validation/Inorder
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-lca-of-two-nodes-in-bst
+  title: Find LCA of two nodes in BST
+  topic: Binary Search Tree
+  difficulty: medium
+  type: BST Property/Recursion
+  tags:
+  - bst
+  - recursion
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-inorder-predecessor-successor-in-bst
+  title: Find inorder predecessor/successor in BST
+  topic: Binary Search Tree
+  difficulty: medium
+  type: BST Traversal
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: floor-in-a-bst
+  title: Floor in a BST
+  topic: Binary Search Tree
+  difficulty: easy
+  type: BST Search
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: ceil-in-a-bst
+  title: Ceil in a BST
+  topic: Binary Search Tree
+  difficulty: easy
+  type: BST Search
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-k-th-smallest-element-in-bst
+  title: Find K-th smallest element in BST
+  topic: Binary Search Tree
+  difficulty: medium
+  type: Inorder Traversal/Morris
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-k-th-largest-element-in-bst
+  title: Find K-th largest element in BST
+  topic: Binary Search Tree
+  difficulty: medium
+  type: Reverse Inorder
+  tags:
+  - bst
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-a-pair-with-given-sum-in-bst
+  title: Find a pair with given sum in BST
+  topic: Binary Search Tree
+  difficulty: medium
+  type: Two Pointer/Inorder
+  tags:
+  - bst
+  - two-pointers
+  link: null
+  python_path: null
+  java_path: null
+- slug: bst-iterator
+  title: BST iterator
+  topic: Binary Search Tree
+  difficulty: medium
+  type: Stack/Inorder Simulation
+  tags:
+  - bst
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: size-of-largest-bst-in-binary-tree
+  title: Size of largest BST in Binary Tree
+  topic: Binary Search Tree
+  difficulty: medium
+  type: DFS/BST Validation
+  tags:
+  - bst
+  - depth-first-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: serialize-and-deserialize-binary-tree
+  title: Serialize and deserialize Binary Tree
+  topic: Binary Search Tree
+  difficulty: hard
+  type: Tree Encoding/BFS or DFS
+  tags:
+  - breadth-first-search
+  - bst
+  - depth-first-search
+  link: null
+  python_path: null
+  java_path: null
+- slug: binary-tree-to-double-linked-list
+  title: Binary Tree to Double Linked List
+  topic: Mixed
+  difficulty: medium
+  type: DFS/Tree Modification
+  tags:
+  - depth-first-search
+  - mixed
+  link: null
+  python_path: null
+  java_path: null
+- slug: find-median-in-stream-of-running-integers
+  title: Find median in stream of running integers
+  topic: Mixed
+  difficulty: hard
+  type: Two Heaps
+  tags:
+  - mixed
+  link: null
+  python_path: null
+  java_path: null
+- slug: k-th-largest-element-in-a-stream
+  title: K-th largest element in a stream
+  topic: Mixed
+  difficulty: easy
+  type: Min Heap
+  tags:
+  - heap
+  - mixed
+  link: null
+  python_path: null
+  java_path: null
+- slug: distinct-numbers-in-window
+  title: Distinct numbers in Window
+  topic: Mixed
+  difficulty: medium
+  type: Sliding Window/Hash Set
+  tags:
+  - hash-set
+  - mixed
+  - sliding-window
+  link: null
+  python_path: null
+  java_path: null
+- slug: k-th-largest-element-in-unsorted-array
+  title: K-th largest element in unsorted array
+  topic: Mixed
+  difficulty: easy
+  type: Quick Select/Heap
+  tags:
+  - heap
+  - mixed
+  link: null
+  python_path: null
+  java_path: null
+- slug: flood-fill-algorithm
+  title: Flood-fill Algorithm
+  topic: Mixed
+  difficulty: hard
+  type: DFS/BFS
+  tags:
+  - breadth-first-search
+  - depth-first-search
+  - mixed
+  link: null
+  python_path: null
+  java_path: null
+- slug: clone-a-graph
+  title: Clone a graph
+  topic: Graph
+  difficulty: hard
+  type: DFS/BFS + Hash Map
+  tags:
+  - breadth-first-search
+  - depth-first-search
+  - graph
+  - hash-map
+  link: null
+  python_path: null
+  java_path: null
+- slug: dfs
+  title: DFS
+  topic: Graph
+  difficulty: hard
+  type: Graph Traversal
+  tags:
+  - graph
+  link: null
+  python_path: null
+  java_path: null
+- slug: bfs
+  title: BFS
+  topic: Graph
+  difficulty: medium
+  type: Graph Traversal
+  tags:
+  - graph
+  link: null
+  python_path: null
+  java_path: null
+- slug: detect-cycle-in-undirected-graph-using-bfs
+  title: Detect cycle in Undirected Graph using BFS
+  topic: Graph
+  difficulty: hard
+  type: BFS/Union Find
+  tags:
+  - breadth-first-search
+  - graph
+  - union-find
+  link: null
+  python_path: null
+  java_path: null
+- slug: detect-cycle-in-undirected-graph-using-dfs
+  title: Detect cycle in Undirected Graph using DFS
+  topic: Graph
+  difficulty: hard
+  type: DFS/Visited Array
+  tags:
+  - depth-first-search
+  - graph
+  link: null
+  python_path: null
+  java_path: null
+- slug: detect-cycle-in-directed-graph-using-dfs
+  title: Detect cycle in Directed Graph using DFS
+  topic: Graph
+  difficulty: hard
+  type: DFS/Recursion Stack
+  tags:
+  - depth-first-search
+  - graph
+  - recursion
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: detect-cycle-in-directed-graph-using-bfs
+  title: Detect cycle in Directed Graph using BFS
+  topic: Graph
+  difficulty: hard
+  type: Kahn's Algorithm
+  tags:
+  - graph
+  - topological-sort
+  link: null
+  python_path: null
+  java_path: null
+- slug: topological-sort-bfs
+  title: Topological Sort BFS
+  topic: Graph
+  difficulty: hard
+  type: Kahn's Algorithm
+  tags:
+  - graph
+  - topological-sort
+  link: null
+  python_path: null
+  java_path: null
+- slug: topological-sort-dfs
+  title: Topological Sort DFS
+  topic: Graph
+  difficulty: hard
+  type: DFS/Stack
+  tags:
+  - depth-first-search
+  - graph
+  - stack
+  link: null
+  python_path: null
+  java_path: null
+- slug: number-of-islands
+  title: Number of islands
+  topic: Graph
+  difficulty: hard
+  type: DFS/BFS/Union Find
+  tags:
+  - breadth-first-search
+  - depth-first-search
+  - graph
+  - union-find
+  link: null
+  python_path: null
+  java_path: null
+- slug: bipartite-check-using-bfs
+  title: Bipartite Check using BFS
+  topic: Graph
+  difficulty: medium
+  type: BFS/Coloring
+  tags:
+  - breadth-first-search
+  - graph
+  link: null
+  python_path: null
+  java_path: null
+- slug: bipartite-check-using-dfs
+  title: Bipartite Check using DFS
+  topic: Graph
+  difficulty: medium
+  type: DFS/Coloring
+  tags:
+  - depth-first-search
+  - graph
+  link: null
+  python_path: null
+  java_path: null
+- slug: strongly-connected-component-kosaraju-s-algo
+  title: Strongly Connected Component (KosaRaju's algo)
+  topic: Graph
+  difficulty: hard
+  type: DFS/Graph Algorithm
+  tags:
+  - depth-first-search
+  - graph
+  link: null
+  python_path: null
+  java_path: null
+- slug: dijkstra-s-algorithm
+  title: Dijkstra's Algorithm
+  topic: Graph
+  difficulty: hard
+  type: Shortest Path/Priority Queue
+  tags:
+  - graph
+  - priority-queue
+  - queue
+  - shortest-path
+  link: null
+  python_path: null
+  java_path: null
+- slug: bellman-ford-algo
+  title: Bellman-Ford Algo
+  topic: Graph
+  difficulty: hard
+  type: Shortest Path/Negative Edges
+  tags:
+  - graph
+  - shortest-path
+  link: null
+  python_path: null
+  java_path: null
+- slug: floyd-warshall-algorithm
+  title: Floyd Warshall Algorithm
+  topic: Graph
+  difficulty: hard
+  type: All Pairs Shortest Path
+  tags:
+  - graph
+  - shortest-path
+  link: null
+  python_path: null
+  java_path: null
+- slug: mst-using-prim-s-algo
+  title: MST using Prim's Algo
+  topic: Graph
+  difficulty: hard
+  type: Minimum Spanning Tree
+  tags:
+  - graph
+  - minimum-spanning-tree
+  link: null
+  python_path: null
+  java_path: null
+- slug: mst-using-kruskal-s-algo
+  title: MST using Kruskal's Algo
+  topic: Graph
+  difficulty: hard
+  type: Minimum Spanning Tree/Union Find
+  tags:
+  - graph
+  - minimum-spanning-tree
+  - union-find
+  link: null
+  python_path: null
+  java_path: null
+- slug: max-product-subarray
+  title: Max Product Subarray
+  topic: Dynamic Programming
+  difficulty: medium
+  type: DP/Kadane's Variation
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: longest-increasing-subsequence
+  title: Longest Increasing Subsequence
+  topic: Dynamic Programming
+  difficulty: medium
+  type: DP/Binary Search
+  tags:
+  - binary-search
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: longest-common-subsequence
+  title: Longest Common Subsequence
+  topic: Dynamic Programming
+  difficulty: medium
+  type: 2D DP
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: 0-1-knapsack
+  title: 0-1 Knapsack
+  topic: Dynamic Programming
+  difficulty: medium
+  type: 2D DP/Space Optimization
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: edit-distance
+  title: Edit Distance
+  topic: Dynamic Programming
+  difficulty: hard
+  type: 2D DP/String DP
+  tags:
+  - dynamic-programming
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: maximum-sum-increasing-subsequence
+  title: Maximum sum increasing subsequence
+  topic: Dynamic Programming
+  difficulty: hard
+  type: DP/LIS Variation
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: matrix-chain-multiplication
+  title: Matrix Chain Multiplication
+  topic: Dynamic Programming
+  difficulty: hard
+  type: Interval DP
+  tags:
+  - dynamic-programming
+  - interval
+  link: null
+  python_path: null
+  java_path: null
+- slug: minimum-sum-path-in-matrix
+  title: Minimum sum path in matrix
+  topic: Dynamic Programming
+  difficulty: medium
+  type: 2D DP/Path Finding
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: coin-change
+  title: Coin change
+  topic: Dynamic Programming
+  difficulty: hard
+  type: DP/Combinatorics
+  tags:
+  - combinatorics
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: subset-sum
+  title: Subset Sum
+  topic: Dynamic Programming
+  difficulty: medium
+  type: DP/Boolean Array
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: rod-cutting
+  title: Rod Cutting
+  topic: Dynamic Programming
+  difficulty: hard
+  type: DP/Optimization
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: egg-dropping
+  title: Egg Dropping
+  topic: Dynamic Programming
+  difficulty: hard
+  type: DP/Optimization
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: word-break
+  title: Word Break
+  topic: Dynamic Programming
+  difficulty: medium
+  type: DP/String Matching
+  tags:
+  - dynamic-programming
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: palindrome-partitioning-mcm-variation
+  title: Palindrome Partitioning (MCM Variation)
+  topic: Dynamic Programming
+  difficulty: hard
+  type: DP/String DP
+  tags:
+  - dynamic-programming
+  - string
+  link: null
+  python_path: null
+  java_path: null
+- slug: maximum-profit-in-job-scheduling
+  title: Maximum profit in Job scheduling
+  topic: Dynamic Programming
+  difficulty: medium
+  type: DP/Scheduling
+  tags:
+  - dynamic-programming
+  link: null
+  python_path: null
+  java_path: null
+- slug: implement-trie-prefix-tree
+  title: Implement Trie (Prefix Tree)
+  topic: Trie
+  difficulty: hard
+  type: Trie Data Structure
+  tags:
+  - trie
+  link: null
+  python_path: null
+  java_path: null
+- slug: implement-trie-2-prefix-tree
+  title: Implement Trie - 2 (Prefix Tree)
+  topic: Trie
+  difficulty: hard
+  type: Advanced Trie Operations
+  tags:
+  - trie
+  link: null
+  python_path: null
+  java_path: null
+- slug: longest-string-with-all-prefixes
+  title: Longest String with All Prefixes
+  topic: Trie
+  difficulty: medium
+  type: Trie/String Processing
+  tags:
+  - string
+  - trie
+  link: null
+  python_path: null
+  java_path: null
+- slug: number-of-distinct-substrings
+  title: Number of Distinct Substrings
+  topic: Trie
+  difficulty: hard
+  type: Trie/String Algorithm
+  tags:
+  - string
+  - trie
+  link: null
+  python_path: null
+  java_path: null
+- slug: power-set
+  title: Power Set
+  topic: Trie
+  difficulty: medium
+  type: Bit Manipulation/Backtracking
+  tags:
+  - backtracking
+  - trie
+  link: null
+  python_path: null
+  java_path: null
+- slug: maximum-xor-of-two-numbers-in-array
+  title: Maximum XOR of two numbers in array
+  topic: Trie
+  difficulty: medium
+  type: Trie/Bit Manipulation
+  tags:
+  - trie
+  link: null
+  python_path: null
+  java_path: null
+- slug: maximum-xor-with-element-from-array
+  title: Maximum XOR With Element From Array
+  topic: Trie
+  difficulty: hard
+  type: Trie/Bit Manipulation/Queries
+  tags:
+  - trie
+  link: null
+  python_path: null
+  java_path: null
