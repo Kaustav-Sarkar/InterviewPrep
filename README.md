@@ -1,71 +1,44 @@
-### DSA Documentation & Implementations
+### Repository Overview
 
-This is a study reference guide with native and stdlib-backed implementations in Python and Java.
+- **Purpose**: Lifelong DSA + interview prep in Python and Java with clear structure, minimal duplication, and easy navigation.
 
-#### Core (1.0)
-- [1.0_Array](datastructures/1.0_Array.md)
-- [1.0_LinkedList_Singly](datastructures/1.0_LinkedList_Singly.md)
-- [1.0_LinkedList_Doubly](datastructures/1.0_LinkedList_Doubly.md)
-- [1.0_Stack](datastructures/1.0_Stack.md)
-- [1.0_Queue](datastructures/1.0_Queue.md)
-- [1.0_Deque](datastructures/1.0_Deque.md)
-- [1.0_HashTable](datastructures/1.0_HashTable.md)
-- [1.0_Set](datastructures/1.0_Set.md)
-- [1.0_PriorityQueue_BinaryHeap](datastructures/1.0_PriorityQueue_BinaryHeap.md)
-- [1.0_MinMaxHeap](datastructures/1.0_MinMaxHeap.md)
-- [1.0_Graph_AdjacencyList](datastructures/1.0_Graph_AdjacencyList.md)
-- [1.0_Graph_AdjacencyMatrix](datastructures/1.0_Graph_AdjacencyMatrix.md)
-- [1.0_Graph_EdgeList](datastructures/1.0_Graph_EdgeList.md)
-- [1.0_BinaryTree_Generic](datastructures/1.0_BinaryTree_Generic.md)
-- [1.0_BinarySearchTree](datastructures/1.0_BinarySearchTree.md)
-- [1.0_Trie_PrefixTree](datastructures/1.0_Trie_PrefixTree.md)
-- [1.0_LRUCache](datastructures/1.0_LRUCache.md)
+### Directory Structure
 
-#### Graphs (representations)
-- [Graph_CSR](datastructures/Graph_CSR.md)
-- [Graph_COO](datastructures/Graph_COO.md)
-- [Graph_AdjacencySet](datastructures/Graph_AdjacencySet.md)
-- [Graph_AdjacencyMap](datastructures/Graph_AdjacencyMap.md)
-- [Graph_Multigraph](datastructures/Graph_Multigraph.md)
+- **`DataStructures/`**: Authoritative DS/Algo notes. Kept intact.
+- **`DSA/Blind75/`**: Blind75 collection.
+  - `index.yaml`: full list with metadata and code paths
+  - `Blind75Python/`, `Blind75Java/`: solutions (self-contained)
+- **`DSA/StriversSheet/`**: Striver’s SDE Sheet.
+  - `index.yaml`: full list with metadata and code paths
+- **`DSA/PythonDSA/`**: Flat, non-grouped Python solutions (CamelCase files, self-contained).
+- **`DSA/JavaDSA/`**: Flat, non-grouped Java solutions (CamelCase files, `package DSA.JavaDSA`).
+- **`CommonQuestions/`**: Common algorithms/designs (e.g., LRU, multithreading). Code-only.
+- **`Past_interviews/`**: Interview notes (single Markdown per interview).
+- **`Behavioral/`**, **`LLD/`**, **`docs/`**, **`scripts/`**: Supporting content and utilities.
+- **`FinalPrepPlan.md`**: Personal plan (local; not tracked).
 
-#### Extended structures
-- [CircularQueue](datastructures/CircularQueue.md)
-- [CircularBuffer](datastructures/CircularBuffer.md)
-- [MonotonicStack](datastructures/MonotonicStack.md)
-- [MonotonicQueue](datastructures/MonotonicQueue.md)
-- [Heap_Binomial](datastructures/Heap_Binomial.md)
-- [Heap_Fibonacci](datastructures/Heap_Fibonacci.md)
-- [BitSet_Bitmap](datastructures/BitSet_Bitmap.md)
-- [BloomFilter](datastructures/BloomFilter.md)
-- [CuckooFilter](datastructures/CuckooFilter.md)
-- [CountMinSketch](datastructures/CountMinSketch.md)
-- [HyperLogLog](datastructures/HyperLogLog.md)
-- [String_Rope](datastructures/String_Rope.md)
-- [PatriciaTrie](datastructures/PatriciaTrie.md)
-- [TernarySearchTree](datastructures/TernarySearchTree.md)
-- [SuffixArray](datastructures/SuffixArray.md)
-- [SuffixTree](datastructures/SuffixTree.md)
-- [SuffixAutomaton](datastructures/SuffixAutomaton.md)
-- [DisjointSet_UnionFind](datastructures/DisjointSet_UnionFind.md)
-- [AVLTree](datastructures/AVLTree.md)
-- [RedBlackTree](datastructures/RedBlackTree.md)
-- [Treap](datastructures/Treap.md)
-- [SplayTree](datastructures/SplayTree.md)
-- [OrderStatisticTree](datastructures/OrderStatisticTree.md)
-- [CartesianTree](datastructures/CartesianTree.md)
-- [SegmentTree](datastructures/SegmentTree.md)
-- [SegmentTree_LazyPropagation](datastructures/SegmentTree_LazyPropagation.md)
-- [FenwickTree](datastructures/FenwickTree.md)
-- [IntervalTree](datastructures/IntervalTree.md)
-- [SparseTable](datastructures/SparseTable.md)
-- [KdTree](datastructures/KdTree.md)
-- [BTree](datastructures/BTree.md)
-- [BPlusTree](datastructures/BPlusTree.md)
-- [SkipList](datastructures/SkipList.md)
-- [LFUCache](datastructures/LFUCache.md)
-- [Misc_SpecializedStructures](datastructures/Misc_SpecializedStructures.md)
-- [Map_Dictionary](datastructures/Map_Dictionary.md)
-- [OrderedMap_TreeMap](datastructures/OrderedMap_TreeMap.md)
-- [OrderedSet_TreeSet](datastructures/OrderedSet_TreeSet.md)
-- [Multiset_Bag](datastructures/Multiset_Bag.md)
-- [Multimap](datastructures/Multimap.md)
+### Conventions
+
+- **Naming**: Directories and filenames use CamelCase. YAML keys use snake_case.
+- **Metadata**:
+  - Non-grouped files include a top docstring/comment with: slug, title, difficulty, tags, link, time, space.
+  - Collections live only in YAML (`DSA/Blind75/index.yaml`, `DSA/StriversSheet/index.yaml`) and store `python_path`/`java_path` to point at code.
+- **No duplication**: Problems live once; collections reference them via paths.
+
+### How to add new code
+
+- **Non-grouped Python**
+  1) Add `DSA/PythonDSA/MyProblem.py` (CamelCase filename)
+  2) Add a top docstring with minimal metadata (slug, title, difficulty, tags, link, time, space)
+
+- **Non-grouped Java**
+  1) Add `DSA/JavaDSA/MyProblem.java` (CamelCase filename)
+  2) Set first line `package DSA.JavaDSA;`
+  3) Add a top block comment with the same minimal metadata
+
+- **Blind75 / Striver**
+  1) Put solutions in `DSA/Blind75/Blind75Python/` or `DSA/Blind75/Blind75Java/` (for Blind75)
+  2) Update the corresponding `index.yaml` entry with `python_path`/`java_path`
+  3) For Striver, you can point to the same files to avoid duplication
+
+Sources: Blind75 (`https://leetcode.com/problem-list/oizxjoit/`), Striver’s SDE Sheet (`https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems`).
