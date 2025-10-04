@@ -97,7 +97,7 @@ items:
     link: https://leetcode.com/problems/missing-number/
     difficulty: easy
     tags: [array, hash-table, bit-manipulation]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/MissingNumber.py
     java_path: null
   - slug: reverse-bits
     title: Reverse Bits
@@ -190,7 +190,7 @@ items:
     link: https://leetcode.com/problems/clone-graph/
     difficulty: medium
     tags: [graph, depth-first-search, breadth-first-search]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/CloneGraph.py
     java_path: null
   - slug: course-schedule
     title: Course Schedule
@@ -290,14 +290,14 @@ items:
     link: https://leetcode.com/problems/linked-list-cycle/
     difficulty: easy
     tags: [linked-list, two-pointers]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/LinkedListCycle.py
     java_path: null
   - slug: merge-two-sorted-lists
     title: Merge Two Sorted Lists
     link: https://leetcode.com/problems/merge-two-sorted-lists/
     difficulty: easy
     tags: [linked-list, recursion]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/Merge2SortedArrays.py
     java_path: null
   - slug: merge-k-sorted-lists
     title: Merge k Sorted Lists
@@ -311,7 +311,7 @@ items:
     link: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
     difficulty: medium
     tags: [linked-list, two-pointers]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/RemoveNthNode.py
     java_path: null
   - slug: reorder-list
     title: Reorder List
@@ -326,14 +326,14 @@ items:
     link: https://leetcode.com/problems/set-matrix-zeroes/
     difficulty: medium
     tags: [array, matrix]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/SetMatrixZeros.py
     java_path: null
   - slug: spiral-matrix
     title: Spiral Matrix
     link: https://leetcode.com/problems/spiral-matrix/
     difficulty: medium
     tags: [array, matrix]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/SpiralMatrix.py
     java_path: null
   - slug: rotate-image
     title: Rotate Image
@@ -376,7 +376,7 @@ items:
     link: https://leetcode.com/problems/valid-anagram/
     difficulty: easy
     tags: [hash-table, string, sorting]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/ValidAnagram.py
     java_path: null
   - slug: group-anagrams
     title: Group Anagrams
@@ -390,7 +390,7 @@ items:
     link: https://leetcode.com/problems/valid-parentheses/
     difficulty: easy
     tags: [stack, string]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/ValidParenthesis.py
     java_path: null
   - slug: valid-palindrome
     title: Valid Palindrome
@@ -404,7 +404,7 @@ items:
     link: https://leetcode.com/problems/longest-palindromic-substring/
     difficulty: medium
     tags: [string, dynamic-programming]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/LongestPalindromicSubstring.py
     java_path: null
   - slug: palindromic-substrings
     title: Palindromic Substrings
@@ -426,21 +426,21 @@ items:
     link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
     difficulty: easy
     tags: [tree, depth-first-search]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/MaxDepthBT.py
     java_path: null
   - slug: same-tree
     title: Same Tree
     link: https://leetcode.com/problems/same-tree/
     difficulty: easy
     tags: [tree, depth-first-search]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/SameTree.py
     java_path: null
   - slug: invert-binary-tree
     title: Invert Binary Tree
     link: https://leetcode.com/problems/invert-binary-tree/
     difficulty: easy
     tags: [tree, breadth-first-search]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/InvertTree.py
     java_path: null
   - slug: binary-tree-maximum-path-sum
     title: Binary Tree Maximum Path Sum
@@ -454,7 +454,7 @@ items:
     link: https://leetcode.com/problems/binary-tree-level-order-traversal/
     difficulty: medium
     tags: [tree, breadth-first-search]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/LevelOrderTraversal.py
     java_path: null
   - slug: serialize-and-deserialize-binary-tree
     title: Serialize and Deserialize Binary Tree
@@ -468,7 +468,7 @@ items:
     link: https://leetcode.com/problems/subtree-of-another-tree/
     difficulty: easy
     tags: [tree, depth-first-search]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/Subtree.py
     java_path: null
   - slug: construct-binary-tree-from-preorder-and-inorder-traversal
     title: Construct Binary Tree from Preorder and Inorder Traversal
@@ -482,7 +482,7 @@ items:
     link: https://leetcode.com/problems/validate-binary-search-tree/
     difficulty: medium
     tags: [tree, depth-first-search]
-    python_path: null
+    python_path: DSA/Blind75/Blind75Python/ValidBT.py
     java_path: null
   - slug: kth-smallest-element-in-a-bst
     title: Kth Smallest Element in a BST

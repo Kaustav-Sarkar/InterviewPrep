@@ -1,0 +1,56 @@
+---
+description: Structure for all knowledge markdown write-ups
+alwaysApply: false
+---
+
+# Template: `<Topic Name>`
+
+## TL;DR Snapshot
+
+- Capture the essence in 3-5 bullets; highlight definition, why it matters, and the most critical metric or fact.
+- Include a single sentence risk/pitfall call-out if there is a widely known gotcha.
+
+## Context & Triggers
+
+- Describe when to reach for the topic: common initiators, prerequisites, adjacent concepts.
+- Summarize advantages, trade-offs, and pitfalls; prefer comparative language (vs. alternatives).
+- List 3-5 canonical use cases or anti-patterns as sub-bullets where helpful.
+
+## Deep Dive
+
+- Arrange major sub-topics with `###` headings (architecture, workflow, internals, etc.).
+- Under each, add explanatory text, key equations, or tables. Keep paragraphs short (≤4 sentences).
+- Call out operational thresholds, scale limits, or design constraints.
+
+## Scenarios & Playbooks
+
+- Provide 3-5 detailed scenarios spanning typical, edge, and failure cases.
+- For each scenario include: triggering conditions, recommended approach, expected outcomes, and follow-up checks.
+- Link to relevant sections in the same file using intra-doc anchors when useful.
+
+## Visual Aids
+
+- Integrate 2-5 Mermaid diagrams distributed near the concepts they explain; fall back to this section if placement is unclear.
+- Prefer variety (flowchart, sequence, state, class, timeline, entity-relationship) suited to the concept.
+- Validate syntax against official Mermaid docs; keep diagrams concise and labeled.
+- Optional: embed external images (stored in `images/` alongside the markdown) with captions.
+
+```mermaid
+%% placeholder diagram – replace with something meaningful
+flowchart TD
+    A[Start] --> B{Key Decision}
+    B -->|Option 1| C[Outcome]
+    B -->|Option 2| D[Alternate Outcome]
+```
+
+## Operational Guidance
+
+- Document runbooks, alert thresholds, deployment tips, security/privacy guardrails.
+- Provide shell commands, config snippets, or checklists as fenced code blocks where relevant.
+- Highlight monitoring/observability signals and escalation paths.
+
+## References & Further Study
+
+- Curate 4-6 high-quality links (official docs, seminal talks, trusted blogs, academic papers).
+- Annotate each link with a one-line takeaway; prefer recent sources unless the topic is foundational.
+- Optionally add related internal notes or cross-link to other files in this repository.
