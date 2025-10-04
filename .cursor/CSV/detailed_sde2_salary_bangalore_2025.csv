@@ -1,0 +1,51 @@
+Rank,Company,Level,Base_Salary_LPA,Stocks_LPA,Bonus_LPA,Total_CTC_LPA,Stock_Vesting,Perks_Benefits,Source,Location
+1,Stripe,L2/SDE2,49,34,4,87,"4 years, 25% annually","WFH allowance ₹1.5L, Health insurance + family, Flexible WFH, Learning budget ₹50K, Travel credits",levels.fyi verified,Bangalore/Remote
+2,Atlassian,P3/SDE2,47,30,5,82,"4 years, 25% annually","Free food, ₹80K ergonomics budget, ₹22K nursing allowance, ₹10K books budget, Free iPhone, Cab service",Reddit/YouTube verified,Bangalore
+3,Airbnb,G8/SDE2,45,25,10,80,"4 years, 25% annually","WFH setup ₹1.2L, Airbnb travel credits $150/quarter, Free food, LinkedIn learning, ₹2.4L education grant",LeetCode interview,Bangalore
+4,Snowflake,SWE 2,45,25,5,75,"4 years, 25% annually","Health insurance premium, WFH setup allowance, Stock purchase plan 15% discount, Learning budget",Industry estimates,Bangalore/Remote
+5,Databricks,SWE 2,44,24,5,73,"4 years, 25% annually","Health + dental + vision, WFH allowance, Free meals, Learning stipend ₹50K, Stock purchase plan",Industry estimates,Bangalore/Remote
+6,Confluent,L2/SDE2,48,20,5,73,"4 years, 25% annually","Health insurance family coverage, WFH budget, Free snacks/meals, Conference attendance, Learning budget",6figr.com verified,Bangalore
+7,Amazon,L5/SDE2,42,15,16,73,"4 years, 5-15-40-40%","Health insurance, ₹4K/month food, Employee discount, Relocation allowance, Mental health support, Dog-friendly office",LeetCode verified,Bangalore
+8,Uber,L3/SDE2,42,24,4,70,"4 years, 25% annually","Free Uber rides ₹50K/year, Health insurance family, Free meals, WFH allowance, Learning budget",LeetCode verified,Bangalore
+9,ByteDance,SDE 2,42,20,6,68,"4 years, 25% annually","Premium health insurance, Free meals 3x/day, Gym membership, WFH setup, Learning allowance",Industry estimates,Bangalore
+10,Microsoft,L62/SDE2,41,19,8,68,"4 years, 25% annually","Car lease + driver + fuel, Free fruits, ₹200/day food credit, Health+dental+vision, Xbox Game Pass",6figr.com verified,Bangalore
+11,Palantir,Forward Deployed SWE,38,22,4,64,"4 years, 25% annually","Health insurance premium, WFH setup, Learning budget, Travel allowances for client visits",Industry estimates,Bangalore
+12,Twitter/X,SWE II,40,18,5,63,"4 years, 25% annually","Health insurance, Free meals, WFH allowance, Learning stipend, Flexible work hours",Industry estimates,Bangalore/Remote
+13,CRED,L3/SDE2,38,18,4,60,"4 years, 25% annually","Health insurance family, Free meals + snacks, Gym membership, WFH setup, Learning budget, Quarterly offsites",6figr.com verified,Bangalore
+14,Adobe,CS1/SDE2,34,18,5,57,"4 years, 25% annually","15 days vacation, ₹45K wellness reimbursement, ₹7.5L education budget, 10 free counselling sessions, Winter break",6figr.com verified,Bangalore
+15,Microsoft,L61/SDE2,32,18,7,57,"4 years, 25% annually","Car lease + driver, Free fruits, ₹200/day food, Dental+vision allowance, Health insurance premium",LeetCode verified,Bangalore
+16,Shopify,Developer 2,38,15,4,57,"4 years, 25% annually","Health insurance, WFH setup ₹1L, Learning budget ₹50K, Flexible working, Stock purchase plan",Industry estimates,Bangalore/Remote
+17,Square/Block,SWE 2,37,16,4,57,"4 years, 25% annually","Health + dental, WFH allowance, Free meals, Learning stipend, Commuter benefits",Industry estimates,Bangalore
+18,LinkedIn,SWE 2,36,14,4,54,"4 years, 25% annually","Free food + snacks, Free iPhone, Cab service, ₹80K WFH reimbursement, ₹8K gadget budget, LinkedIn premium",Industry estimates,Bangalore
+19,PhonePe,SDE2,44,6,4,54,"4 years, 25% annually","Health insurance + family, Free meals, Transport allowance, Performance bonus, Learning budget",LeetCode verified,Bangalore
+20,Twilio,SWE 2,35,15,4,54,"4 years, 25% annually","Health insurance, WFH setup allowance, Learning budget, Flexible PTO, Commuter benefits",Industry estimates,Bangalore/Remote
+21,Spotify,Engineer II,35,12,4,51,"4 years, 25% annually","Premium Spotify, Health insurance, WFH allowance, Learning budget, Flexible hours",Industry estimates,Bangalore/Remote
+22,Walmart Labs,SDE2,35,10,5,50,"4 years, 25% annually","Free food + cabs, Health insurance family, ₹50K gym reimbursement, WFH setup, Good work-life balance",Reddit discussions,Bangalore
+23,Zomato,SDE2,32,12,3,47,"4 years, 25% annually","Free Zomato Gold, Health insurance, Free meals, Transport allowance, Quarterly bonuses",6figr.com verified,Bangalore
+24,Intuit,Software Engineer 2,32,10,4,46,"4 years, 25% annually","Free food + cab, Health insurance premium, Annual shutdown, Learning budget, Stock purchase plan",Industry estimates,Bangalore
+25,Swiggy,SDE2,33,8,3,44,"4 years, 25% annually","Free Swiggy One membership, Health insurance, Free meals, Transport, Performance bonuses",LeetCode verified,Bangalore
+26,Goldman Sachs,Associate,30,8,5,43,3 years cliff,"Health insurance premium, Gym membership, Free meals, Transport allowance, Learning budget",LeetCode discussions,Bangalore
+27,Salesforce,MTS/SDE2,28,12,3,43,"4 years, 25% annually","Free food 5x/day, ₹15K vision+dental, ₹4K monthly internet, ₹5K monthly gym, Mental health support",LeetCode/Reddit,Bangalore
+28,Expedia,SDE2,32,8,3,43,"4 years, 25% annually","Travel discounts, Health insurance, Free snacks, WFH setup, Learning allowance",Reddit discussions,Bangalore
+29,Google,L3/SDE2,23,16,3,42,"4 years, 25% annually","Free food + snacks, Free iPhone/Pixel, Free cab, Internet allowance, WFH setup ₹1L, Health insurance covers in-laws",6figr.com verified,Bangalore
+30,Meesho,SDE2,30,8,2,40,"4 years, 25% annually","Health insurance family, Free meals, Transport allowance, Performance bonus, Learning budget",LeetCode verified,Bangalore
+31,Zepto,SDE2,28,10,2,40,"4 years, 25% annually","Free Zepto delivery, Health insurance, Free meals, Transport, Quarterly bonuses",LeetCode verified,Bangalore
+32,Morgan Stanley,Associate,29,7,4,40,3 years cliff,"Health insurance premium, Free meals, Gym membership, Transport allowance, Learning budget",Industry estimates,Bangalore
+33,Visa,Senior Software Engineer,28,7,4,39,"4 years, 25% annually","Health insurance premium, Free meals, Transport allowance, Learning budget, Stock purchase plan",Industry estimates,Bangalore
+34,Dunzo,L3/SDE2,29,8,2,39,"4 years, 25% annually","Free Dunzo delivery, Health insurance, Free meals, Transport, Performance bonuses",levels.fyi,Bangalore
+35,VMware,MTS2,28,8,3,39,"4 years, 25% annually","Health insurance, Free meals, WFH allowance, Learning budget, Flexible work hours",Industry estimates,Bangalore
+36,Flipkart,SDE2,27,8,3,38,"4 years, 25% annually","Health insurance family, Free meals + snacks, Transport allowance, Performance bonus, Learning budget",LeetCode verified,Bangalore
+37,ServiceNow,IC2/SDE2,25,11,2,38,"4 years, 25% annually","Health insurance premium, WFH allowance, Learning budget ₹50K, Free snacks, Stock purchase plan",6figr.com verified,Bangalore
+38,JP Morgan,VP Associate,28,6,4,38,3 years cliff,"Relocation allowance, Free food + cab, Internet reimbursement, WFH setup, Health insurance premium",Industry estimates,Bangalore
+39,Razorpay,L2/SDE2,28,5,3,36,"4 years, 25% annually","Health insurance family, Free meals, Transport allowance, Performance bonus, Learning budget",6figr.com verified,Bangalore
+40,Ola,SDE2,30,4,2,36,"4 years, 25% annually","Free Ola rides ₹30K/year, Health insurance, Free meals, Transport, Performance bonuses",6figr.com verified,Bangalore
+41,American Express,Senior Engineer,27,6,3,36,"4 years, 25% annually","Health insurance premium, Free meals, Gym membership, Transport allowance, Learning budget",Industry estimates,Bangalore
+42,Oracle,IC2,26,6,3,35,"4 years, 25% annually","Health insurance covers in-laws, ₹15K health checkup, Dental+OPD ₹25K, Internet reimbursement, Unlimited sick leaves",Industry estimates,Bangalore
+43,PayPal,T23/SDE2,24,8,2,34,"4 years, 25% annually","Health insurance family, Free meals, WFH allowance, Learning budget, Stock purchase plan",6figr.com verified,Bangalore
+44,Dell,Senior Software Engineer,26,5,3,34,"4 years, 25% annually","Health insurance, Free meals, Transport allowance, Learning budget, Flexible work hours",Industry estimates,Bangalore
+45,Mastercard,Senior Software Engineer,26,5,3,34,"4 years, 25% annually","Transportation free after hours, Top-line laptop + iPhone, Health insurance + annual checkups, 4-month paternity",Industry estimates,Bangalore
+46,Deutsche Bank,AVP,25,4,3,32,3 years cliff,"Health insurance premium, Free meals, Transport allowance, Learning budget, Banking benefits",Reddit discussions,Bangalore
+47,IBM,Software Engineer,24,4,3,31,"4 years, 25% annually","Health insurance, Free meals, WFH allowance, Learning platform access, Stock purchase plan",Industry estimates,Bangalore
+48,Barclays,Assistant VP,24,4,3,31,3 years cliff,"Health insurance premium, Free meals, Transport allowance, Learning budget, Banking privileges",Industry estimates,Bangalore
+49,Cisco,SDE2,19,5,2,26,"4 years, 25% annually","WFH + Internet reimbursement, Health covers in-laws + ₹15K checkup, Tuition ₹4L, No RTO policy",LeetCode verified,Bangalore
+50,Accenture,SDE2,22,2,2,26,ESPP 15% discount,"Health insurance family, Employee assistance program, Calm app access, Learning platform, Stock purchase 15% discount",Industry estimates,Bangalore

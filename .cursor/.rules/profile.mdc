@@ -1,0 +1,89 @@
+---
+alwaysApply: true
+---
+
+## Kaustav Sarkar
+
+Bangalore, India · kaustav.sarkar.work@gmail.com · Links: Portfolio · GitHub · LinkedIn
+
+### Summary
+SDE-2 at Cloudera with experience in platform engineering, secure API exposure, and workflow orchestration. Strong background in Java, Go, and Spring Boot; production experience with Kubernetes, Helm, Istio, Apache Knox, and Cadence. Focused on reliability, security, and developer experience.
+
+### Skills
+- Programming: Java, Go, Python, C++, JavaScript
+- Cloud/Infra: AWS, GCP, Kubernetes, Helm, Istio, Vault, Apache Knox
+- Frameworks: Spring Boot, Hibernate, gRPC, Microservices
+- Orchestration: Cadence (Workflows, Activities, Retries)
+- AI/ML: PyTorch, TensorFlow, Image Segmentation, Object Detection, NLP, Computer Vision
+
+### Work Experience
+Cloudera — SDE-2, Data Services Platform (Feb 2025 – Present) — Bangalore
+- Built secure API exposure layer using Istio gateways, auth policies, and Apache Knox for authenticated access to Helm-deployed applications.
+- Integrated Cadence orchestration into Spring Boot microservices with automated retries and failure handling; extended SDK with Spring-specific modules while maintaining backward compatibility.
+- Transformed internal Helm framework into a parameterized Go library with Vault integration; created a Java wrapper enabling seamless adoption across Java-based services.
+
+Cloudera — SDE, Datalake MicroService (Aug 2023 – Feb 2025)
+- Built common-API wrapper extending containerized data-lake support to existing endpoints; led rollout across three teams with cross-functional coordination.
+- Developed the Start Stop Datalake API with Cadence to orchestrate complex multi-service interactions and manage asynchronous task sequences, significantly reducing operational costs and boosting service reliability and efficiency.
+- Updated the JPA/Hibernate schema to support soft-cascading deletes and an optional force-delete mode, and orchestrated retries and cloud-resource cleanup via Cadence workflows for configurable, fault-tolerant deletions.
+- Developed 'describe datalake' and 'describe services' commands, enabling selective data exposure for external users while enhancing system navigation and service management for Ranger, Atlas and Kafka.
+
+Cloudera — SDE Intern, SDXSaaS Dashboard (Jan 2023 – Aug 2023)
+- Led the development of a multi-cloud Kubernetes management system using gRPC, integrating Prometheus for enhanced performance monitoring.
+- Developed a Flask REST API and web UI for Kubernetes management system, integrated with the company's SSO for secure, browser-based access and seamless integrations.
+
+X80-security — Cloud DevOps Intern (Sep 2021 – Jan 2023) — Paris (Remote)
+- Engineered automated vulnerability scanning software for GCP and AWS VPCs, enhancing security and reducing overhead; developed Heroku vulnerability scanner reducing security breaches by 30%.
+- Created an interactive dashboard using AppSmith for real-time cloud statistics and vulnerability updates, improving stakeholder communication and collaboration.
+
+IBM India — SDE GRM Intern, Posture Analysis (May 2022 – July 2022) — Remote
+- Developed a client-side privacy-focused solution using React and TensorFlow.js for continuous posture detection, ensuring stringent data privacy while providing valuable insights.
+
+### Education
+Manipal Institute of Technology, Manipal — B-Tech, Information Technology (July 2019 – July 2023)
+
+### Projects
+- Automatic Valet Parking (C++, Python, YOLO, FCN32, PCL): Implemented an Automated Valet Parking (Perception) system utilizing PCL, sensor fusion, IPM, FCN32, and YOLOv2. Employed algorithmic analysis to identify optimal parking spots based on diverse parameters.
+- Sentiment Analysis App (Python, Image Classification, OpenCV, Flask): Developed a Flask application for crowd mood analysis, providing comprehensive insights into collective sentiment and emotional patterns, resulting in 25% more crowd engagement.## Kaustav Sarkar
+
+Bangalore, India · kaustav.sarkar.work@gmail.com · Links: Portfolio · GitHub · LinkedIn
+
+### Summary
+SDE-2 at Cloudera with experience in platform engineering, secure API exposure, and workflow orchestration. Strong background in Java, Go, and Spring Boot; production experience with Kubernetes, Helm, Istio, Apache Knox, and Cadence. Focused on reliability, security, and developer experience.
+
+### Skills
+- Programming: Java, Go, Python, C++, JavaScript
+- Cloud/Infra: AWS, GCP, Kubernetes, Helm, Istio, Vault, Apache Knox
+- Frameworks: Spring Boot, Hibernate, gRPC, Microservices
+- Orchestration: Cadence (Workflows, Activities, Retries)
+- AI/ML: PyTorch, TensorFlow, Image Segmentation, Object Detection, NLP, Computer Vision
+
+### Work Experience
+Cloudera — SDE-2, Data Services Platform (Feb 2025 – Present) — Bangalore
+- Built secure API exposure layer using Istio gateways, auth policies, and Apache Knox for authenticated access to Helm-deployed applications.
+- Integrated Cadence orchestration into Spring Boot microservices with automated retries and failure handling; extended SDK with Spring-specific modules while maintaining backward compatibility.
+- Transformed internal Helm framework into a parameterized Go library with Vault integration; created a Java wrapper enabling seamless adoption across Java-based services.
+
+Cloudera — SDE, Datalake MicroService (Aug 2023 – Feb 2025)
+- Built common-API wrapper extending containerized data-lake support to existing endpoints; led rollout across three teams with cross-functional coordination.
+- Developed the Start Stop Datalake API with Cadence to orchestrate complex multi-service interactions and manage asynchronous task sequences, significantly reducing operational costs and boosting service reliability and efficiency.
+- Updated the JPA/Hibernate schema to support soft-cascading deletes and an optional force-delete mode, and orchestrated retries and cloud-resource cleanup via Cadence workflows for configurable, fault-tolerant deletions.
+- Developed 'describe datalake' and 'describe services' commands, enabling selective data exposure for external users while enhancing system navigation and service management for Ranger, Atlas and Kafka.
+
+Cloudera — SDE Intern, SDXSaaS Dashboard (Jan 2023 – Aug 2023)
+- Led the development of a multi-cloud Kubernetes management system using gRPC, integrating Prometheus for enhanced performance monitoring.
+- Developed a Flask REST API and web UI for Kubernetes management system, integrated with the company's SSO for secure, browser-based access and seamless integrations.
+
+X80-security — Cloud DevOps Intern (Sep 2021 – Jan 2023) — Paris (Remote)
+- Engineered automated vulnerability scanning software for GCP and AWS VPCs, enhancing security and reducing overhead; developed Heroku vulnerability scanner reducing security breaches by 30%.
+- Created an interactive dashboard using AppSmith for real-time cloud statistics and vulnerability updates, improving stakeholder communication and collaboration.
+
+IBM India — SDE GRM Intern, Posture Analysis (May 2022 – July 2022) — Remote
+- Developed a client-side privacy-focused solution using React and TensorFlow.js for continuous posture detection, ensuring stringent data privacy while providing valuable insights.
+
+### Education
+Manipal Institute of Technology, Manipal — B-Tech, Information Technology (July 2019 – July 2023)
+
+### Projects
+- Automatic Valet Parking (C++, Python, YOLO, FCN32, PCL): Implemented an Automated Valet Parking (Perception) system utilizing PCL, sensor fusion, IPM, FCN32, and YOLOv2. Employed algorithmic analysis to identify optimal parking spots based on diverse parameters.
+- Sentiment Analysis App (Python, Image Classification, OpenCV, Flask): Developed a Flask application for crowd mood analysis, providing comprehensive insights into collective sentiment and emotional patterns, resulting in 25% more crowd engagement.
